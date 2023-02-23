@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  border: 1px solid red;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 100px;
+}
+
+.box1 {
+  border: 1px solid green;
+}
+
+.box2 {
+  background-color: yellow;
+  float: right;
+}
+
+.box3 {
+  border: 1px solid blue;
+}
